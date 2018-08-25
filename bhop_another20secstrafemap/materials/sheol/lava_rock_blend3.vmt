@@ -1,0 +1,30 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "sheol/lava_rock_01"
+	"$bumpmap" "sheol/lava_rock_01_normal"
+	"$basetexture2" "sheol/lava_rock_01a"
+	"%tooltexture" "sheol/lava_rock_01_tooltexture"
+	"$surfaceprop" "rock"
+	"$selfillum" 1
+	"$reflectivity" "[0 0 0]" 
+	"$nodecal" "1" 
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar"	"$selfillumtint"
+			"sineperiod"	4
+			"sinemin"	0.7
+			"sinemax"	1
+		}
+
+      		"TextureScroll" 
+      		{ 
+         		"texturescrollvar" "$bumptransform" 
+         		"texturescrollrate" 5 
+         		"texturescrollangle" -90 
+      		} 
+
+
+	}
+}
