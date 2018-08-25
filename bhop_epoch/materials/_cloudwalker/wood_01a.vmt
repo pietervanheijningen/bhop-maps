@@ -1,0 +1,8 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "_cloudwalker/wood_01a"
+	"$envmap" "env_cubemap"
+	"$envmapmask" "_cloudwalker/wood_01_mask"
+	"$envmaptint" "[0.8 0.8 0.8]"
+	"$surfaceprop" "wood"
+}
