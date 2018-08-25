@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "blockworld_info/restart"
+	"$translucent" 1
+	"$decal" "1"
+	"$decalscale" "0.5"
+}
