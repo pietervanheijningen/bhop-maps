@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/kz_isles/isle_palm/isle_palm01"
+"$model" 1
+"$surfaceprop" "grass"
+"$alphatest" 1
+"$nocull" 1
+"$nodecal" 1
+}

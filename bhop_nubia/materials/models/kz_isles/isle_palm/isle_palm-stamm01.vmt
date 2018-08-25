@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/kz_isles/isle_palm/isle_palm01"
+"$model" 1
+"$surfaceprop" "wood"
+}
