@@ -1,0 +1,7 @@
+"WorldVertexTransition" 
+{ 
+   "$basetexture" "castle/cave_wall1" 
+   "$basetexture2" "kc_main/tides_grass_a"
+   "$surfaceprop" "stone" 
+   "%keywords" "blend" 
+} 
