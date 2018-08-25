@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	// Original shader: BaseTexture
+	"$basetexture" "skybox/black"
+}
