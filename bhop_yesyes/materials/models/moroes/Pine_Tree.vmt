@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\moroes\Pine_Tree"
+	"$alphatest" 1
+	"$nocull" 1	
+//	"$translucent" 1
+	"$model" 1
+}
