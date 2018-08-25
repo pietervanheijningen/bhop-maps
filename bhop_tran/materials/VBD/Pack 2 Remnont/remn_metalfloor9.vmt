@@ -1,0 +1,12 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "VBD/Pack 2 Remnont/remn_metalfloor9"
+	"$bumpmap" "VBD/Pack 2 Remnont/remn_metalfloor9_normal"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ 1.0 1.0 1.0 ]"
+	"$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"%keywords" "Remnont"
+}
