@@ -1,0 +1,6 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "ster/sterCyan"
+	"$surfaceprop" "default"
+	"$bumpmap" "ster/SterCyan_normal"
+}
