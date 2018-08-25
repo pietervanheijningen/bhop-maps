@@ -1,0 +1,7 @@
+"lightmappedgeneric"
+{
+	"$basetexture" "/cncr04sp2/metal/ghotile3a_d"
+	"$surfaceprop" "metal"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.5.5.5]"
+}

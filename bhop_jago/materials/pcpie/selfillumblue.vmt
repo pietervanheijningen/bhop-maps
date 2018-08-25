@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "pcpie/selfillumblue"
+	"$surfaceprop" "metal"
+	"$selfillum" 1
+}
