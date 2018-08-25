@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cropsas/e8cretefloor_tile"
+	"$surfaceprop" "concrete"
+}

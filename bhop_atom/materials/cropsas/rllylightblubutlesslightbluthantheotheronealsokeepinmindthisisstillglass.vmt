@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "cropsas/rllylightblubutlesslightbluthantheotheronealsokeepinmindthisisstillglass"
+	"$surfaceprop" "glass"
+    "$alpha" 0.7
+}
