@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	// Original shader: BaseTimesLightmap
+	"$basetexture" "Tools/toolsnodraw"
+	"%compilenodraw" 1
+}
