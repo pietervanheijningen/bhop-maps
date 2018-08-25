@@ -1,0 +1,4 @@
+"lightmappedgeneric" {
+    "$basetexture" "precision/grau1"
+    "$surfaceprop" "concrete"
+}
