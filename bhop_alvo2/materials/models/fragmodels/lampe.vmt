@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+
+{
+"$baseTexture" "models/fragmodels/lampe"
+
+
+"$selfillum" "1"
+
+}

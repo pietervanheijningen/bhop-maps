@@ -1,0 +1,8 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "cncr04s/grass/m3l3grass_1rough"
+	"$surfaceprop" "grass"
+	"$basetexture2" "asteroids/dirtfloor005"
+	"$surfaceprop2" "dirt"
+	"$blendmodulatetexture" "nature/sandfloor_01_blendtexture"
+}

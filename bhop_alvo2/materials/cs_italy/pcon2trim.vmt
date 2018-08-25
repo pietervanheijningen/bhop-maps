@@ -1,0 +1,6 @@
+"lightmappedGeneric"
+{
+	"$baseTexture" "cs_italy/pcon2trim"
+	"$surfaceprop" "concrete"
+	"$bumpmap" "cs_italy/pcon2trim_normal"
+}
