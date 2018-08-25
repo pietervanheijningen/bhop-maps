@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "flat_textures_bumped/white512"
+	"$bumpmap" "flat_textures_bumped/flat_white_wood_old_planks_nrm"
+	"$surfaceprop" "wood"
+	"$basetexturetransform" "center .5 .5 scale 1 1 rotate 90 translate 0 0"
+}

@@ -1,0 +1,92 @@
+"pharos_outside"
+{
+	"dsp"	"0"
+
+	"playlooping"
+	{
+		"volume"		"0.1"
+		"pitch"		"100"
+		"wave"		"ambient/nature/water_gently_lapping.wav"
+	}
+
+	"playlooping"
+	{
+		"volume"		"0.5"
+		"pitch"		"100"
+		"wave"		"ambient/weather/rumble_rain_nowind.wav"
+	}
+
+
+
+	"playrandom"
+	{
+
+		"time"		"8,16"
+		"volume"		"0.6,0.9"
+		"pitch"		"85,100"
+
+		"rndwave"
+		{
+			"wave"	"ambient/weather/thunder1.wav"
+			"wave"	"ambient/weather/thunder2.wav"
+			"wave"	"ambient/weather/thunder3.wav"
+			"wave"	"ambient/weather/thunder4.wav"
+			"wave"	"ambient/weather/thunder5.wav"
+			"wave"	"ambient/weather/thunder6.wav"
+
+		}
+	}
+}
+
+"pharos_mine"
+{
+	"dsp"	"0"
+	
+	"playlooping"
+	{
+		"volume"	"0.6"
+		"pitch"		"100"
+		"wave"		"ambient/tones/under2.wav"
+	}
+
+	"playrandom"
+	{
+
+		"time"		"10,20"
+		"volume"		"0.3,0.5"
+		"pitch"		"80,100"
+
+		"rndwave"
+		{
+			"wave"	"ambient/misc/rock1.wav"
+			"wave"	"ambient/misc/rock2.wav"
+			"wave"	"ambient/misc/rock3.wav"
+
+
+		}
+
+	}
+}
+
+"pharos_s4"
+{
+	"dsp"	"0"
+
+	"playlooping"
+	{
+		"volume"		"0.7"
+		"pitch"		"100"
+		"wave"		"pharos/loscil-cloister.mp3"
+	}
+
+}
+"silent"
+{
+	"dsp"	"0"
+	
+	"playlooping"
+	{
+		"wave" "weapons\usp\usp_silencer_off.wav"
+		"volume" "0.0"
+	}
+}

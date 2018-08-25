@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "lostcoast/models/fisherman/fisherman_upper_body"
+	"$envmap" 			"env_cubemap"
+        "$normalmapalphaenvmapmask" 1
+	"$envmapcontrast" 0.6
+	"$envmapsaturation" 0.7
+	"$envmaptint" "[ .6 .6 .6 ]"
+}

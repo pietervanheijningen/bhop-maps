@@ -1,0 +1,7 @@
+"LightmappedGeneric"
+{
+	"$baseTexture" "pcpie/s4_info"
+	"$translucent" "1"
+	"$decal" "1"
+	"$decalscale" "0.25"
+}

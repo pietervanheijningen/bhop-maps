@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Roof\wood_roof_06"
+	"$bumpmap" "RealWorldTextures2\Roof\wood_roof_06_nrm"
+	"$bumpscale" ".7"
+	"$surfaceprop" "wood"
+	"$detail" "RealWorldTextures2\detail\dt_wood"
+	"$detailblendfactor" ".45"
+	"$detailscale" "7"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

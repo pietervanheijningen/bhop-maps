@@ -1,0 +1,6 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "flat_textures_bumped/white512"
+	"$bumpmap" "flat_textures_bumped/flat_white_wood_roof01_nrm"
+	"$surfaceprop" "wood"
+}

@@ -1,0 +1,10 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "RealWorldTextures2\Wood\wood_01"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+	"$detail" "RealWorldTextures2\detail\dt_wood"
+	"$detailblendfactor" ".8"
+	"$detailscale" "7"
+} //Realworld Textures Version 2 - Made by TopHATTwaffle - Please credit me if used! - Contact: www.tophattwaffle.com

@@ -1,0 +1,18 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "_cloudwalker/lava_rock_01a"
+	"$selfillum" 1
+	"$surfaceprop" "rock"
+
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar"	"$selfillumtint"
+			"sineperiod"	4
+			"sinemin"	0.5
+			"sinemax"	1
+		}
+
+	}
+}
