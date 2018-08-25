@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "base_floor/clang_floor"
+	"$surfaceprop" "metal"
+}
