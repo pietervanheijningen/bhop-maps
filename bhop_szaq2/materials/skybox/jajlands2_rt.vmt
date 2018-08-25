@@ -1,0 +1,6 @@
+"unlitgeneric"
+{
+	"$basetexture" "skybox/jajlands2_rt"
+	"$nofog" 1
+	$ignorez 1
+}
