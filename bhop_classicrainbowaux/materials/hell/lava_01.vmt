@@ -1,0 +1,29 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hell/lava_rock_01a"
+	"$selfillum" 1
+	"$surfaceprop" "rock"
+	"$reflectivity" "[0 0 0]" 
+	"$nodecal" "1" 
+	"Proxies"
+	{
+		"Sine"
+		{
+			"resultVar"	"$selfillumtint"
+			"sineperiod"	4
+			"sinemin"	0.7
+			"sinemax"	1
+		}
+
+      		"TextureScroll" 
+      		{ 
+         		"texturescrollvar" "$bumptransform" 
+         		"texturescrollrate" 5 
+         		"texturescrollangle" -90 
+      		} 
+
+
+	}
+
+
+}

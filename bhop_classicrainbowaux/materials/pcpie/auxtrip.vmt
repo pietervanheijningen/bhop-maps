@@ -1,0 +1,14 @@
+"UnlitGeneric"
+{
+	"$basetexture"	"pcpie/auxtrip"
+	"$decal" "1"
+"Proxies"
+{
+"AnimatedTexture"
+{
+"animatedTextureVar" "$basetexture"
+"animatedTextureFrameNumVar" "$frame"
+"animatedTextureFrameRate" "10"
+}
+}
+}

@@ -1,0 +1,11 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "hell/lava_rock_01b"
+	"$bumpmap" "hell/lava_rock_01b_normal"
+
+
+
+//	"$selfillum" 1
+
+	"$surfaceprop" "rock"
+}
