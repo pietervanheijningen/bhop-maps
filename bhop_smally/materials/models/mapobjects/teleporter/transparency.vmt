@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/mapobjects/teleporter/transparency"
+	"$additive" 1
+	"$selfillum" 1
+	"$envmap" "models/mapobjects/teleporter/transparency2"
+	"$envmapsphere" 1
+	"$envmaptint" .15 .15 .15
+	"$multipass" 1
+}
