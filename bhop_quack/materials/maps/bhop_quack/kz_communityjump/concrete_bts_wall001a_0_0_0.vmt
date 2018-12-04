@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/KZ_COMMUNITYJUMP/CONCRETE_BTS_WALL001A.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bhop_quack/c0_0_0"
+	}
+}

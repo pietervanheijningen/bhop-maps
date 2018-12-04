@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/_CLOUDWALKER/GLASS_01_GREY.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bhop_quack/c0_0_0"
+	}
+}

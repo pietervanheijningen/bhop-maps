@@ -1,0 +1,10 @@
+"LightmappedGeneric" 
+{ 
+	"$basetexture" "kz_communityjump/concrete_bts_wall001a"
+	"$bumpmap" "kz_communityjump/concrete_bts_wall001a_normal"
+	"$normalmapalphaenvmapmask" "1"
+	"$surfaceprop" "Concrete"
+	"$envmapcontrast" 1
+	"$envmapsaturation" 1
+	"$envmap" "env_cubemap"
+}

@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/CNCR04SP2/METAL/GHOFLOOR1C_D.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bhop_quack/c0_0_0"
+	}
+}

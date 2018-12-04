@@ -1,0 +1,12 @@
+"WorldVertexTransition"
+{
+	"$basetexture" "_cloudwalker/lava_rock_01"
+	"$bumpmap" "_cloudwalker/lava_rock_01_normal"
+	"$basetexture2" "_cloudwalker/lava_rock_01b"
+	"$bumpmap2" "_cloudwalker/lava_rock_01b_normal"
+	"%tooltexture" "_cloudwalker/lava_rock_01a_tooltexture"
+
+//	"$selfillum" 1
+
+	"$surfaceprop" "rock"
+}

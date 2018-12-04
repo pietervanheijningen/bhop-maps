@@ -1,0 +1,8 @@
+"patch"
+{
+	"include"		"materials/REALWORLDTEXTURES2/MARBLE/MARBLE_01.vmt"
+	"replace"
+	{
+		"$envmap"		"maps/bhop_quack/c0_0_0"
+	}
+}
