@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	$basetexture "models\loopix\tropical\trees\palmt2"
+	$alphatest 1
+	$nocull 1
+}

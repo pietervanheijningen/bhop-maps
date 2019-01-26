@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "asteroids/dirtfloor005"
+	"$surfaceprop" "dirt"
+}
