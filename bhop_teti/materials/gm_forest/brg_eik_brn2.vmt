@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+    	"$basetexture" "gm_forest\brg_eik_brn2"
+	"$alphatest" 1
+    	"$model" "1"
+}

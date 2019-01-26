@@ -6,3 +6,15 @@ For each bhop map I've included the .vmf file, the .rad file, the textures and t
 These .vmf files should be compatible with the hammer version that comes with counter-strike: source. For now, they should also open in the hammer editor that comes with counter-strike: global offensive. Although it is unclear for how long. Some converting might be necessary for other source engine/quake engine based games.
 
 Some maps use textures or models that come with the game counter-strike: source. For copyright reasons I have not included those in the map folders. You will have to extract that data from the game itself if you want to port a map to another game.
+
+### Yes, you can do whatever you want with these files. No need to ask.
+
+--------------
+
+### Want to download only 1 map instead of everything at once? use this link:
+
+``
+https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/pietervanheijningen/bhop_maps/tree/master/bhop_nux
+``
+
+just change the map name at the end of the url
