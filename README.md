@@ -18,3 +18,9 @@ https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/pietervanhei
 ``
 
 just change the map name at the end of the url
+
+--------------
+
+### Known issues:
+
+- on bhop_qportal, if you compile it there is a chance that the lights will not emit any light. This is caused by sideways brushes that touch the void sometimes becoming invalid brushes. Try to recreate those brushes to fix the issue, particularly the last stage (black) is known for having this issue.
