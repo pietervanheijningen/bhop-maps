@@ -1,0 +1,22 @@
+"Refract"
+{
+ 	"$model" 1
+ 	"$refractamount" ".065"
+ 	"$bluramount" "0"
+	"$REFRACTTINT" "[.7 .8 .8]"
+	"$scale" "[1 1]"
+	"$dudvmap" "RealWorldTextures/glass/Glass_10_nrm"
+	"$normalmap" "RealWorldTextures/glass/Glass_10_nrm"
+//	"$nocull" 1
+	"$surfaceprop" "glass"
+	"$envmap" "env_cubemap"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" ".8"
+	"$envmaptint" "[.7 .8 .8]"
+	"%tooltexture" "RealWorldTextures/glass/Glass_10_nrm"
+
+	"Refract_DX60"
+	{
+		"$fallbackmaterial" "RealWorldTextures/glass/glass_10_P"
+	}
+}
