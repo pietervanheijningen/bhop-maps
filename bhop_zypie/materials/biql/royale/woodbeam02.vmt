@@ -1,0 +1,12 @@
+"lightmappedgeneric"
+{
+$basetexture "biql/royale/woodbeam02"
+$bumpmap "biql/royale/woodbeam02n"
+
+$phong 1
+$phongfresnelranges "[1 1.2 1.7]"
+$phongtint "[0.87 0.97 1]"
+$halflambert 1
+$phongexponent 10
+$phongboost 1
+}

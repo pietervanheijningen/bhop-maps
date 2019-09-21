@@ -1,0 +1,5 @@
+"LightmappedGeneric"
+{
+	"$basetexture" "a-madman/glowing_tiles/yellow_glowing_tiles"
+	"$selfillum" 1
+}
